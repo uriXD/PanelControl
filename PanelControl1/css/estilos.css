@@ -1,0 +1,25 @@
+body{
+ 	background-image: url("../img/Fondo.jpg");
+    background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+img.logo{
+	height: 200px;
+	width: 205px;
+	margin-bottom: 20px;
+}
+
+div.login{
+	margin-top: 80px;
+}
+
+form input.form-control{
+	width: 350px;
+}
+
+label{
+	color: #ffffff;
+	margin: 10px 0;
+}
